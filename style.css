@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+}
+
+.mailToButton { 
+  background: lightsalmon;
+  padding: 10px 10px;
+  border-radius: 15px;
+  color: white;
+}
+
+.mailToButton:hover {
+  background-color: salmon;
+  color: white;
+}
